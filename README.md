@@ -1,16 +1,38 @@
-## Hi there 👋
+# 👋 Hi, I'm Kumkum Gautam
 
-<!--
-**Kumkum-2004/kumkum-2004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student  
+💻 Interested in AI / Machine Learning  
+🚀 Learning and building AI/ML projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+- Python
+- Machine Learning
+- OpenCV
+- Flask
+- HTML
+- CSS
+- JavaScript
+- Git & GitHub
+
+---
+
+## 📂 Projects
+
+🔹 **Aadhaar Masking & Document Processing Pipeline (Aifise)**  
+Worked on an AI/ML pipeline that processes documents and masks Aadhaar numbers using deep learning models.
+
+🔹 **Cartoon Talks (Frontend)**  
+Worked on the frontend development of a web application using HTML, CSS and JavaScript.
+
+---
+
+## 📫 Contact
+
+📧 Email: kumkumgautam2004@gmail.com
+
+---
+
+⭐ Always learning new things in AI / ML
